@@ -18,7 +18,7 @@
 	RootModule			   = 'XurrentAPITools.psm1'
 	
 	# Version number of this module.
-	ModuleVersion		   = '0.1.1.0'
+	ModuleVersion		   = '0.1.2.0'
 	
 	# ID used to uniquely identify this module
 	GUID				   = 'a4960da8-44ab-464e-ac5c-a092deefe971'
